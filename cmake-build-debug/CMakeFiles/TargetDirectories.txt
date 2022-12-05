@@ -1,0 +1,3 @@
+C:/Users/mechm/CLionProjects/AdventOfCode22/cmake-build-debug/CMakeFiles/AdventOfCode22.dir
+C:/Users/mechm/CLionProjects/AdventOfCode22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mechm/CLionProjects/AdventOfCode22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
