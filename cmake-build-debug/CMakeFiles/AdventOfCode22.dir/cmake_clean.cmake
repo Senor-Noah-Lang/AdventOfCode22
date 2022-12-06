@@ -12,6 +12,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/AdventOfCode22.dir/AoCDay4.cpp.obj.d"
   "CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.obj"
   "CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.obj.d"
+  "CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj"
+  "CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj.d"
   "CMakeFiles/AdventOfCode22.dir/main.cpp.obj"
   "CMakeFiles/AdventOfCode22.dir/main.cpp.obj.d"
   "libAdventOfCode22.dll.a"

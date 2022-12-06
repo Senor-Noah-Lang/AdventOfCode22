@@ -248,6 +248,30 @@ AoCDay5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.s
 .PHONY : AoCDay5.cpp.s
 
+AoCDay6.obj: AoCDay6.cpp.obj
+.PHONY : AoCDay6.obj
+
+# target to build an object file
+AoCDay6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj
+.PHONY : AoCDay6.cpp.obj
+
+AoCDay6.i: AoCDay6.cpp.i
+.PHONY : AoCDay6.i
+
+# target to preprocess a source file
+AoCDay6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.i
+.PHONY : AoCDay6.cpp.i
+
+AoCDay6.s: AoCDay6.cpp.s
+.PHONY : AoCDay6.s
+
+# target to generate assembly for a file
+AoCDay6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.s
+.PHONY : AoCDay6.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -296,6 +320,9 @@ help:
 	@echo ... AoCDay5.obj
 	@echo ... AoCDay5.i
 	@echo ... AoCDay5.s
+	@echo ... AoCDay6.obj
+	@echo ... AoCDay6.i
+	@echo ... AoCDay6.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
