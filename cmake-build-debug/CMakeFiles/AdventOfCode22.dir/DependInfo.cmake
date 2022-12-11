@@ -14,6 +14,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/cfintern/Documents/AdventOfCode22/AoCDay4.cpp" "CMakeFiles/AdventOfCode22.dir/AoCDay4.cpp.obj" "gcc" "CMakeFiles/AdventOfCode22.dir/AoCDay4.cpp.obj.d"
   "C:/Users/cfintern/Documents/AdventOfCode22/AoCDay5.cpp" "CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.obj" "gcc" "CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.obj.d"
   "C:/Users/cfintern/Documents/AdventOfCode22/AoCDay6.cpp" "CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj" "gcc" "CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj.d"
+  "C:/Users/cfintern/Documents/AdventOfCode22/AoCDay7.cpp" "CMakeFiles/AdventOfCode22.dir/AoCDay7.cpp.obj" "gcc" "CMakeFiles/AdventOfCode22.dir/AoCDay7.cpp.obj.d"
+  "C:/Users/cfintern/Documents/AdventOfCode22/AoCDay8.cpp" "CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.obj" "gcc" "CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.obj.d"
   "C:/Users/cfintern/Documents/AdventOfCode22/main.cpp" "CMakeFiles/AdventOfCode22.dir/main.cpp.obj" "gcc" "CMakeFiles/AdventOfCode22.dir/main.cpp.obj.d"
   )
 
