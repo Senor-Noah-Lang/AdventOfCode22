@@ -194,6 +194,34 @@ CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cfintern\Documents\AdventOfCode22\AoCDay8.cpp -o CMakeFiles\AdventOfCode22.dir\AoCDay8.cpp.s
 
+CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj: CMakeFiles/AdventOfCode22.dir/flags.make
+CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj: C:/Users/cfintern/Documents/AdventOfCode22/AoCDay9.cpp
+CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj: CMakeFiles/AdventOfCode22.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cfintern\Documents\AdventOfCode22\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj -MF CMakeFiles\AdventOfCode22.dir\AoCDay9.cpp.obj.d -o CMakeFiles\AdventOfCode22.dir\AoCDay9.cpp.obj -c C:\Users\cfintern\Documents\AdventOfCode22\AoCDay9.cpp
+
+CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cfintern\Documents\AdventOfCode22\AoCDay9.cpp > CMakeFiles\AdventOfCode22.dir\AoCDay9.cpp.i
+
+CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cfintern\Documents\AdventOfCode22\AoCDay9.cpp -o CMakeFiles\AdventOfCode22.dir\AoCDay9.cpp.s
+
+CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj: CMakeFiles/AdventOfCode22.dir/flags.make
+CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj: C:/Users/cfintern/Documents/AdventOfCode22/AoCDay10.cpp
+CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj: CMakeFiles/AdventOfCode22.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cfintern\Documents\AdventOfCode22\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj -MF CMakeFiles\AdventOfCode22.dir\AoCDay10.cpp.obj.d -o CMakeFiles\AdventOfCode22.dir\AoCDay10.cpp.obj -c C:\Users\cfintern\Documents\AdventOfCode22\AoCDay10.cpp
+
+CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cfintern\Documents\AdventOfCode22\AoCDay10.cpp > CMakeFiles\AdventOfCode22.dir\AoCDay10.cpp.i
+
+CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cfintern\Documents\AdventOfCode22\AoCDay10.cpp -o CMakeFiles\AdventOfCode22.dir\AoCDay10.cpp.s
+
 # Object files for target AdventOfCode22
 AdventOfCode22_OBJECTS = \
 "CMakeFiles/AdventOfCode22.dir/main.cpp.obj" \
@@ -204,7 +232,9 @@ AdventOfCode22_OBJECTS = \
 "CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.obj" \
 "CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj" \
 "CMakeFiles/AdventOfCode22.dir/AoCDay7.cpp.obj" \
-"CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.obj"
+"CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.obj" \
+"CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj" \
+"CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj"
 
 # External object files for target AdventOfCode22
 AdventOfCode22_EXTERNAL_OBJECTS =
@@ -218,11 +248,13 @@ AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/AoCDay5.cpp.obj
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/AoCDay6.cpp.obj
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/AoCDay7.cpp.obj
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.obj
+AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj
+AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/build.make
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/linklibs.rsp
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/objects1.rsp
 AdventOfCode22.exe: CMakeFiles/AdventOfCode22.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\cfintern\Documents\AdventOfCode22\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable AdventOfCode22.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\cfintern\Documents\AdventOfCode22\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable AdventOfCode22.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AdventOfCode22.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

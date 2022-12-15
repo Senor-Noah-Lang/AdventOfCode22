@@ -152,6 +152,30 @@ AoCDay1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay1.cpp.s
 .PHONY : AoCDay1.cpp.s
 
+AoCDay10.obj: AoCDay10.cpp.obj
+.PHONY : AoCDay10.obj
+
+# target to build an object file
+AoCDay10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.obj
+.PHONY : AoCDay10.cpp.obj
+
+AoCDay10.i: AoCDay10.cpp.i
+.PHONY : AoCDay10.i
+
+# target to preprocess a source file
+AoCDay10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.i
+.PHONY : AoCDay10.cpp.i
+
+AoCDay10.s: AoCDay10.cpp.s
+.PHONY : AoCDay10.s
+
+# target to generate assembly for a file
+AoCDay10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay10.cpp.s
+.PHONY : AoCDay10.cpp.s
+
 AoCDay2.obj: AoCDay2.cpp.obj
 .PHONY : AoCDay2.obj
 
@@ -320,6 +344,30 @@ AoCDay8.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay8.cpp.s
 .PHONY : AoCDay8.cpp.s
 
+AoCDay9.obj: AoCDay9.cpp.obj
+.PHONY : AoCDay9.obj
+
+# target to build an object file
+AoCDay9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.obj
+.PHONY : AoCDay9.cpp.obj
+
+AoCDay9.i: AoCDay9.cpp.i
+.PHONY : AoCDay9.i
+
+# target to preprocess a source file
+AoCDay9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.i
+.PHONY : AoCDay9.cpp.i
+
+AoCDay9.s: AoCDay9.cpp.s
+.PHONY : AoCDay9.s
+
+# target to generate assembly for a file
+AoCDay9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdventOfCode22.dir\build.make CMakeFiles/AdventOfCode22.dir/AoCDay9.cpp.s
+.PHONY : AoCDay9.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -356,6 +404,9 @@ help:
 	@echo ... AoCDay1.obj
 	@echo ... AoCDay1.i
 	@echo ... AoCDay1.s
+	@echo ... AoCDay10.obj
+	@echo ... AoCDay10.i
+	@echo ... AoCDay10.s
 	@echo ... AoCDay2.obj
 	@echo ... AoCDay2.i
 	@echo ... AoCDay2.s
@@ -377,6 +428,9 @@ help:
 	@echo ... AoCDay8.obj
 	@echo ... AoCDay8.i
 	@echo ... AoCDay8.s
+	@echo ... AoCDay9.obj
+	@echo ... AoCDay9.i
+	@echo ... AoCDay9.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

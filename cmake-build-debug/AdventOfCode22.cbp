@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay1.h">
 			<Option target="AdventOfCode22"/>
 		</Unit>
+		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay10.cpp">
+			<Option target="AdventOfCode22"/>
+		</Unit>
+		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay10.h">
+			<Option target="AdventOfCode22"/>
+		</Unit>
 		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay2.cpp">
 			<Option target="AdventOfCode22"/>
 		</Unit>
@@ -128,6 +134,12 @@
 			<Option target="AdventOfCode22"/>
 		</Unit>
 		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay8.h">
+			<Option target="AdventOfCode22"/>
+		</Unit>
+		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay9.cpp">
+			<Option target="AdventOfCode22"/>
+		</Unit>
+		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/AoCDay9.h">
 			<Option target="AdventOfCode22"/>
 		</Unit>
 		<Unit filename="C:/Users/cfintern/Documents/AdventOfCode22/main.cpp">
